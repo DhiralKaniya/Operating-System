@@ -56,6 +56,7 @@ void main(){
 		if(r1[flag].bt==0){
 			printf("process %d is completed\n",r1[flag].process);
 			r1[flag].et=i+1;
+
 			
 		}
 		else{
